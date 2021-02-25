@@ -1640,7 +1640,7 @@ body,
 	position: fixed;
 	top: 0;
 	z-index: 99;
-	background: #111517;
+	background: #fff;
     -webkit-transition: 1s cubic-bezier(.858, .01, .068, .99); 
     	-o-transition: 1s cubic-bezier(.858, .01, .068, .99); 
 			transition: 1s cubic-bezier(.858, .01, .068, .99);
